@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Cartier 👋
+
+I am an undergraduate student at UBC majoring in Computer Science and Statistics 🌱
+
+Currently looking for winter 2021 & summer 2022 opportunities
+
+You can reach me via [email](vu.cartier@gmail.com).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cartiervu&layout=compact)](https://github.com/cartiervu/github-readme-stats)
+
 
 <!--
 **cartiervu/cartiervu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
