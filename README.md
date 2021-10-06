@@ -4,7 +4,7 @@ I am an undergraduate student at UBC majoring in Computer Science and Statistics
 
 Currently looking for winter 2021 & summer 2022 opportunities
 
-You can reach me via [email](vu.cartier@gmail.com)
+You can reach me via [email](mailto:vu.cartier@gmail.com?Subject=Hi%20there!)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cartiervu&layout=compact)](https://github.com/cartiervu/github-readme-stats) -->
 
